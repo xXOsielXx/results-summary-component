@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/xXOsielXx/results-summary-component
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-page-with-dynamic-results-uW59rdSsgN
 - Live Site URL: https://xxosielxx.github.io/results-summary-component
 
 ## My process
