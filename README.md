@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-page-with-dynamic-results-uW59rdSsgN
-- Live Site URL: https://xxosielxx.github.io/results-summary-component
+- Live Site URL: https://xxosielxx.github.io/results-summary-component-challenge
 
 ## My process
 
